@@ -1,0 +1,27 @@
+body{
+    min-width: 1000px;
+}
+.head{
+    height: 118px;
+    border-left: 5px double red;
+}
+.ground{
+    border-bottom: 2px solid red;
+}
+.time{
+    font-weight: bold;
+}
+.n{
+
+}
+.nt{
+    font-weight: bold;
+}
+.icon{
+    background: url("../img/right.png")  no-repeat  center/cover;
+    background-position: 0px 3px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
